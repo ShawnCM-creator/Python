@@ -1,0 +1,10 @@
+# Block Letters for my initials
+# Also Showing the use of comments and the Print() Function
+
+print(" SSS  DDDD")
+print("S   S D   D")
+print("S     D   D")
+print(" SSS  D   D")
+print("    S D   D")
+print("S   S D   D")
+print(" SSS  DDDD")
