@@ -1,0 +1,14 @@
+# This Code is Python, using Variables and Integers.
+# A simple equation that Converts Fahrenheit into Celsius
+# The Integers are used to hold the assigned numbers. Some are Listed, (respectively), as Fahrenheit and Celsius. The assigned numbers are 63 (Fahrenheit) and 17 (Celsius)
+# this code executes and uses the formula that I have made. It is attatched to the Int of Temp. That executes the following formula [(Fahrenheit - 32) / 1.8]
+# Inside the formula, is the use of Python code. To subtract 32 off the Int Fahrenheit, using the designated Subtraction symbol of (-). Then proceeds to take that number left over and Divides it with (The also designated Python Symbol for Division) /. 
+# It takes the first product of the equation, which is the int Fahrenheit. and applies a division of 1.8
+# Print is then used after the formula is executed. and Displays the remaining number 17.2222. 
+# Noted, that Temp becomes a Float after the equation is completed. (Because it is a floating-point number)
+
+Fahrenheit = 63
+Celsius = 17
+
+Temp = (Fahrenheit - 32) / 1.8
+print(Temp) #This is the Celsius equation
