@@ -1,0 +1,5 @@
+# The most basic of basic Python coding.
+
+print("Hello World!")
+print("Hi!")
+print("Rubber Ducky Debugging!")
